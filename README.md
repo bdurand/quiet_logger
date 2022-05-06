@@ -35,7 +35,7 @@ even_quieter_logger = QuietLogger.new(verbose_logger, level: :error)
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'quiet_logger'
+gem "quiet_logger"
 ```
 
 And then execute:
