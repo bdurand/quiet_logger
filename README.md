@@ -1,4 +1,4 @@
-[![Continuous Integration](https://github.com/bdurand/sidekiq-deferred_jobs/actions/workflows/continuous_integration.yml/badge.svg)](https://github.com/bdurand/sidekiq-deferred_jobs/actions/workflows/continuous_integration.yml)
+[![Continuous Integration](https://github.com/bdurand/quiet_logger/actions/workflows/continuous_integration.yml/badge.svg)](https://github.com/bdurand/quiet_logger/actions/workflows/continuous_integration.yml)
 [![Ruby Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://github.com/testdouble/standard)
 
 # QuietLogger
