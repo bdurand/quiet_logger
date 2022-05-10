@@ -14,7 +14,7 @@ env:
   BUNDLE_RETRY: 3
 jobs:
   specs:
-    name: ${{ matrix.job }} ruby-${{ matrix.combo.ruby || matrix.ruby }} ${{ matrix.combo.sidekiq && format('sidekiq-{0}', matrix.combo.sidekiq) }}
+    name: Run specs
     runs-on: ubuntu-latest
     steps:
       - name: checkout
