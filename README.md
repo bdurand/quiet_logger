@@ -1,8 +1,9 @@
+# QuietLogger
+
 [![Continuous Integration](https://github.com/bdurand/quiet_logger/actions/workflows/continuous_integration.yml/badge.svg)](https://github.com/bdurand/quiet_logger/actions/workflows/continuous_integration.yml)
 [![Regression Test](https://github.com/bdurand/quiet_logger/actions/workflows/regression_test.yml/badge.svg)](https://github.com/bdurand/quiet_logger/actions/workflows/regression_test.yml)
 [![Ruby Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://github.com/testdouble/standard)
-
-# QuietLogger
+[![Gem Version](https://badge.fury.io/rb/quiet_logger.svg)](https://badge.fury.io/rb/quiet_logger)
 
 This gem provides a mechanism for wrapping a instance of `Logger` with one that produces a less verbose output.
 
